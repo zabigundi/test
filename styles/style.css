@@ -1,0 +1,25 @@
+ol:hover { border: 1px solid black; width: 30%;}
+.my-class {width: 40%;}
+a:hover {color: red;}
+h1 {text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #00539f;
+  text-shadow: 3px 3px 1px black;
+}
+.playfair-display {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;}
+li {line-height: 1.4;}
+html {
+  background-color: #00539f;
+}
+body {
+  width: auto;
+  margin: 0 auto;
+  background-color: #ff9500;
+  padding: 20px 10px 10px 20px;
+  border: 10px solid black;
+}
